@@ -1,0 +1,180 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '50663668943@s.whatsapp.net',
+    fromMe: false,
+    id: '3A695758A42B0C2E0360',
+    participant: undefined
+  },
+  messageTimestamp: 1696009046,
+  pushName: 'Meli🍄',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mamoi y yp busqué',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mamoi y yp busqué',
+  from: '50663668943'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50663668943@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABBB30A4935E62E3957',
+    participant: undefined
+  },
+  messageTimestamp: 1696009056,
+  pushName: 'Meli🍄',
+  broadcast: false,
+  message: Message {
+    conversation: 'No hay ningún estudio que lo valide',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No hay ningún estudio que lo valide',
+  from: '50663668943'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50663668943@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF61D866A79EE9D9228',
+    participant: undefined
+  },
+  messageTimestamp: 1696009062,
+  pushName: 'Meli🍄',
+  broadcast: false,
+  message: Message {
+    conversation: 'Eso del cancer',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Eso del cancer',
+  from: '50663668943'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50663668943@s.whatsapp.net',
+    fromMe: false,
+    id: '3A13DA45AAC27DDF6340',
+    participant: undefined
+  },
+  messageTimestamp: 1696009072,
+  pushName: 'Meli🍄',
+  broadcast: false,
+  message: Message {
+    conversation: 'Yo no se de dónde sacaron ustedes eso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo no se de dónde sacaron ustedes eso',
+  from: '50663668943'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50663668943@s.whatsapp.net',
+    fromMe: false,
+    id: '3A63ED908A480B749C63',
+    participant: undefined
+  },
+  messageTimestamp: 1696009158,
+  pushName: 'Meli🍄',
+  broadcast: false,
+  message: Message {
+    conversation: 'Porque eso fue algo que dijo ella también, que no había leído nada sobre eso, que no había visto ningún artículo que hablara sobre eso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Porque eso fue algo que dijo ella también, que no había leído nada sobre eso, que no había visto ningún artículo que hablara sobre eso',
+  from: '50663668943'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50685097920@s.whatsapp.net',
+    fromMe: false,
+    id: '67F3704F6A90D42C8B637ECFC8E6F469',
+    participant: undefined
+  },
+  messageTimestamp: 1696011309,
+  pushName: 'Aru',
+  broadcast: false,
+  message: Message {
+    conversation: 'El forced?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Aru',
+  body: 'El forced?',
+  from: '50685097920'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50685097920@s.whatsapp.net',
+    fromMe: false,
+    id: '7C27669C42B66304F30D2593C7D1A397',
+    participant: undefined
+  },
+  messageTimestamp: 1696011335,
+  pushName: 'Aru',
+  broadcast: false,
+  message: Message {
+    conversation: 'Intente, sino, deje lo hago de otra manera y se lo paso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Aru',
+  body: 'Intente, sino, deje lo hago de otra manera y se lo paso',
+  from: '50685097920'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '50685097920@s.whatsapp.net',
+    fromMe: false,
+    id: '548B1BDAB079DD46DC857AB446F88C2B',
+    participant: undefined
+  },
+  messageTimestamp: 1696011339,
+  pushName: 'Aru',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/31524215_3586736171605763_86433817750454189_n.enc?ccb=11-4&oh=01_AdQO9TPN51q6js0O9NMRMzc56i9E9cvNwk4VFmUIzpC2YA&oe=653E7F81&_nc_sid=000000&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/31524215_3586736171605763_86433817750454189_n.enc?ccb=11-4&oh=01_AdQO9TPN51q6js0O9NMRMzc56i9E9cvNwk4VFmUIzpC2YA&oe=653E7F81&_nc_sid=000000',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Aru',
+  body: '',
+  from: '50685097920'
+}
